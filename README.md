@@ -1,12 +1,16 @@
 # React
 - Webpage based on React Component structure
----------------------------------------------------
-### To-Do List
+<br/>
+
+
+## To-Do List
 - [X] 프로젝트 생성
 - [ ] Figma로 Prototype 만들기
 
----------------------------------------------------
-### 주요 사용 패키지
+<br/>
+
+
+## 주요 사용 패키지
 <div align="center">
       <details open>
         <summary> </summary>
@@ -64,8 +68,9 @@
       </table>
 </div>
 
----------------------------------------------------
-### 프로젝트 구조 
+<br/>
+
+## 프로젝트 구조 
 │  .gitignore  
 │  package-lock.json  
 │  package.json  
